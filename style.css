@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+}
+
+.content{
+    margin-top: 300px;
+}
+
+h3{
+    font-size: 50px;
+}
+
+button{
+    margin-top: 20px;
+    height: 50px;
+    width: 200px;
+    cursor: pointer;
+    font-size: 20px;
+    border: 1px solid grey;
+    border-radius: 7px;
+}
+
+.count{
+    background-color: rebeccapurple;
+    color: #fff;
+}
+
+.save{
+    background-color: green;
+    color: #fff;
+}
+#countEl{
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+#saveEl{
+    font-size: 40px;
+    margin-top: 30px;
+}
